@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1142116,
       "digest": "sha256:a3a9d9e19f5457c46e49fa706e6540df42fff6b174e4df2bdf1c83d59caf39dc",
-      "download_count": 819,
+      "download_count": 822,
       "created_at": "2026-08-07T20:31:44Z",
       "updated_at": "2026-08-07T20:31:44Z",
       "browser_download_url": "https://github.com/514-labs/dnsglobe/releases/download/v0.5.0/dnsglobe-aarch64-apple-darwin.tar.xz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:f776ca7db303a23a559f9a05f35ada16a71c785c5b4bc22f00d9c1ec929d617f",
-      "download_count": 28,
+      "download_count": 29,
       "created_at": "2026-08-07T20:31:44Z",
       "updated_at": "2026-08-07T20:31:44Z",
       "browser_download_url": "https://github.com/514-labs/dnsglobe/releases/download/v0.5.0/dnsglobe-aarch64-apple-darwin.tar.xz.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 54092,
       "digest": "sha256:7e368ddd6f825c3a75eecb0b950a9081697bde085af0bd0d0575aea5c14e7c9a",
-      "download_count": 157,
+      "download_count": 158,
       "created_at": "2026-08-07T20:31:44Z",
       "updated_at": "2026-08-07T20:31:44Z",
       "browser_download_url": "https://github.com/514-labs/dnsglobe/releases/download/v0.5.0/dnsglobe-installer.sh"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 103,
       "digest": "sha256:e607312d60ad3081e0a84928e5357cbc6644573828137dd5bc4f31bd1a08ee6f",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-08-07T20:31:44Z",
       "updated_at": "2026-08-07T20:31:44Z",
       "browser_download_url": "https://github.com/514-labs/dnsglobe/releases/download/v0.5.0/dnsglobe-x86_64-apple-darwin.tar.xz.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1859716,
       "digest": "sha256:8efc384e88f1aab3883c522cd23c3c6c2482c9ded14fadadfb04275a363bb0ba",
-      "download_count": 427,
+      "download_count": 434,
       "created_at": "2026-08-07T20:31:44Z",
       "updated_at": "2026-08-07T20:31:45Z",
       "browser_download_url": "https://github.com/514-labs/dnsglobe/releases/download/v0.5.0/dnsglobe-x86_64-pc-windows-msvc.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 103,
       "digest": "sha256:7d7e8ee09a6a600837b18ca9fd52d946a01128ba2675646bb4cf7757d695be10",
-      "download_count": 39,
+      "download_count": 40,
       "created_at": "2026-08-07T20:31:44Z",
       "updated_at": "2026-08-07T20:31:45Z",
       "browser_download_url": "https://github.com/514-labs/dnsglobe/releases/download/v0.5.0/dnsglobe-x86_64-pc-windows-msvc.zip.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1293684,
       "digest": "sha256:b2b293972463deee845ffd7c1c1217eff645bfd5f7ec549d99ba830dc4c0b598",
-      "download_count": 818,
+      "download_count": 832,
       "created_at": "2026-08-07T20:31:45Z",
       "updated_at": "2026-08-07T20:31:45Z",
       "browser_download_url": "https://github.com/514-labs/dnsglobe/releases/download/v0.5.0/dnsglobe-x86_64-unknown-linux-gnu.tar.xz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": "sha256:6dee8b5367b92cb69b93f96d4e73bcbf6f4680387b022b56a386cb5fdd3bd1f0",
-      "download_count": 55,
+      "download_count": 58,
       "created_at": "2026-08-07T20:31:45Z",
       "updated_at": "2026-08-07T20:31:45Z",
       "browser_download_url": "https://github.com/514-labs/dnsglobe/releases/download/v0.5.0/dnsglobe-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:881257d13bdb3fe7a744e8cab0f18a0c3cdef2377af8962be96189c9bd873d70",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-07T20:31:45Z",
       "updated_at": "2026-08-07T20:31:45Z",
       "browser_download_url": "https://github.com/514-labs/dnsglobe/releases/download/v0.5.0/source.tar.gz.sha256"
