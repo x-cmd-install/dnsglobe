@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1293684,
       "digest": "sha256:b2b293972463deee845ffd7c1c1217eff645bfd5f7ec549d99ba830dc4c0b598",
-      "download_count": 888,
+      "download_count": 903,
       "created_at": "2026-08-07T20:31:45Z",
       "updated_at": "2026-08-07T20:31:45Z",
       "browser_download_url": "https://github.com/514-labs/dnsglobe/releases/download/v0.5.0/dnsglobe-x86_64-unknown-linux-gnu.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 603,
       "digest": "sha256:fe49452aaae2b6da8f72c3d6ca332993cdef0077d1a2375cf8607862af8f46f1",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-08-07T20:31:45Z",
       "updated_at": "2026-08-07T20:31:45Z",
       "browser_download_url": "https://github.com/514-labs/dnsglobe/releases/download/v0.5.0/sha256.sum"
