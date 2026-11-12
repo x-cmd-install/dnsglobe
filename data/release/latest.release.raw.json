@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 29671,
       "digest": "sha256:98417133cc2339ce71b9302f863098fc9464aa20e64b8acf4a83c00446191528",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-08-07T20:31:44Z",
       "updated_at": "2026-08-07T20:31:44Z",
       "browser_download_url": "https://github.com/514-labs/dnsglobe/releases/download/v0.5.0/dist-manifest.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1152568,
       "digest": "sha256:95d3ad8e343fe8e4d34ab8b7a78dc42f2a9ff950ae141852f718314a6c3c717b",
-      "download_count": 67,
+      "download_count": 68,
       "created_at": "2026-08-07T20:31:44Z",
       "updated_at": "2026-08-07T20:31:44Z",
       "browser_download_url": "https://github.com/514-labs/dnsglobe/releases/download/v0.5.0/dnsglobe-aarch64-unknown-linux-gnu.tar.xz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 54092,
       "digest": "sha256:7e368ddd6f825c3a75eecb0b950a9081697bde085af0bd0d0575aea5c14e7c9a",
-      "download_count": 166,
+      "download_count": 167,
       "created_at": "2026-08-07T20:31:44Z",
       "updated_at": "2026-08-07T20:31:44Z",
       "browser_download_url": "https://github.com/514-labs/dnsglobe/releases/download/v0.5.0/dnsglobe-installer.sh"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1859716,
       "digest": "sha256:8efc384e88f1aab3883c522cd23c3c6c2482c9ded14fadadfb04275a363bb0ba",
-      "download_count": 569,
+      "download_count": 578,
       "created_at": "2026-08-07T20:31:44Z",
       "updated_at": "2026-08-07T20:31:45Z",
       "browser_download_url": "https://github.com/514-labs/dnsglobe/releases/download/v0.5.0/dnsglobe-x86_64-pc-windows-msvc.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1293684,
       "digest": "sha256:b2b293972463deee845ffd7c1c1217eff645bfd5f7ec549d99ba830dc4c0b598",
-      "download_count": 955,
+      "download_count": 969,
       "created_at": "2026-08-07T20:31:45Z",
       "updated_at": "2026-08-07T20:31:45Z",
       "browser_download_url": "https://github.com/514-labs/dnsglobe/releases/download/v0.5.0/dnsglobe-x86_64-unknown-linux-gnu.tar.xz"
