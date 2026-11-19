@@ -37,22 +37,22 @@ Total: **10,561** lines of code across **18** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,593 · **Forks**: 68 · **Open issues**: 9 · **Contributors**: 6
+- **Stars**: 1,641 · **Forks**: 72 · **Open issues**: 9 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 33 · **Open PRs**: 2 · **Closed issues**: 8 · **Open issues**: 1 · **Commits**: 35
+- **Releases**: 6 · **Merged PRs**: 33 · **Open PRs**: 0 · **Closed issues**: 9 · **Open issues**: 0 · **Commits**: 35
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 2 | 0 | 1 | 0 |
-| 90d | 2026-08-18 | 0 | 1 | 2 | 0 | 1 | 1 |
-| last180d | 2026-05-20 | 6 | 33 | 2 | 8 | 1 | 35 |
-| 360d | 2025-11-21 | 6 | 33 | 2 | 8 | 1 | 35 |
-| last720d | 2024-11-26 | 6 | 33 | 2 | 8 | 1 | 35 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 1 | 0 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 0 | 1 | 0 | 0 |
+| 90d | 2026-08-21 | 0 | 1 | 0 | 1 | 0 | 1 |
+| last180d | 2026-05-23 | 6 | 33 | 0 | 9 | 0 | 35 |
+| 360d | 2025-11-24 | 6 | 33 | 0 | 9 | 0 | 35 |
+| last720d | 2024-11-29 | 6 | 33 | 0 | 9 | 0 | 35 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for dnsglobe lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:40:16Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:32:13Z._
